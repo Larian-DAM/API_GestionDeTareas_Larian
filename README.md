@@ -14,12 +14,11 @@ Este proyecto forma parte de la actividad del módulo Acceso a Datos.
 ---
 
 ## Tecnologías utilizadas
-- Java 17
 - Spring Boot
 - Spring Data MongoDB
 - MongoDB
 - Maven
-- Postman / Thunder Client
+- Postman
 
 ---
 
